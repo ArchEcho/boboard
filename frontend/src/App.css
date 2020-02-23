@@ -5,3 +5,7 @@
   display: flex;
   overscroll-behavior: none;
 }
+
+header.MuiAppBar-positionFixed {
+  z-index: 9999;
+}
